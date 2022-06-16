@@ -20,7 +20,7 @@ export default class Header2 extends React.Component {
 
     const onClickSignin = (event) => {
       event.preventDefault();
-      setUser("Tom Jerry");
+      setUser("OppKunG");
     };
 
     return (
